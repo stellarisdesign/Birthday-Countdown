@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f9;
+    padding: 20px;
+    font-size: 35px;
+}
+#countdown {
+    font-size: 11rem;
+    margin-top: 50px;
+}
+#birthday-message {
+    display: none;
+    margin-top: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
